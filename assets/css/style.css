@@ -381,7 +381,8 @@ header{
     color: #fff;
 }
 .item-space {
-    margin-bottom: 30px;
+	margin-bottom: 30px;
+	width: 360px;
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
